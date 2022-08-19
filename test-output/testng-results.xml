@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12997" started-at="2022-08-19T18:53:00Z" finished-at="2022-08-19T18:53:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12997" started-at="2022-08-19T18:53:00Z" finished-at="2022-08-19T18:53:13Z">
+      <class name="org.wiki.testcase.TC_PushpaWiki_001">
+        <test-method status="PASS" signature="searchPushpaMovie()[pri:0, instance:org.wiki.testcase.TC_PushpaWiki_001@10e92f8f]" name="searchPushpaMovie" is-config="true" duration-ms="11779" started-at="2022-08-20T00:23:00Z" finished-at="2022-08-20T00:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPushpaMovie -->
+        <test-method status="PASS" signature="getCountryName()[pri:0, instance:org.wiki.testcase.TC_PushpaWiki_001@10e92f8f]" name="getCountryName" duration-ms="232" started-at="2022-08-20T00:23:12Z" finished-at="2022-08-20T00:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountryName -->
+        <test-method status="PASS" signature="getRelease_Date()[pri:0, instance:org.wiki.testcase.TC_PushpaWiki_001@10e92f8f]" name="getRelease_Date" duration-ms="175" started-at="2022-08-20T00:23:12Z" finished-at="2022-08-20T00:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRelease_Date -->
+        <test-method status="PASS" signature="closeUp()[pri:0, instance:org.wiki.testcase.TC_PushpaWiki_001@10e92f8f]" name="closeUp" is-config="true" duration-ms="787" started-at="2022-08-20T00:23:12Z" finished-at="2022-08-20T00:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUp -->
+      </class> <!-- org.wiki.testcase.TC_PushpaWiki_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
